@@ -30,11 +30,11 @@ public class Article {
         this.title = title;
     }
 
-    public String getCathegory() {
+    public String getCategory() {
         return category;
     }
 
-    public void setCathegory(String cathegory) {
+    public void setCategory(String cathegory) {
         this.category = cathegory;
     }
 }
